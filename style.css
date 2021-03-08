@@ -1,0 +1,67 @@
+section {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+.contact_list li {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.contact_list li a {
+    margin-left: 10px;
+    color: #152fe8;
+    font-weight: normal;
+}
+
+.about__content {
+    font-size: 28px;
+}
+
+.about__title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.about_list li {
+    font-size: 24px;
+}
+
+.project {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.project a {
+    font-weight: normal;
+    color: #152fe8;
+}
+
+.education {
+    margin-bottom: 100px;
+}
+
+.education__title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.education__content:nth-child(even) {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+}
